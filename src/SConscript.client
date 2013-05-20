@@ -12,7 +12,7 @@ Import('clientEnv')
 Import('has_option')
 Import('installSetup')
 
-MONGODB_VERSION = '2.4.1'
+MONGODB_VERSION = '2.4.3'
 
 
 # Cope with scons's failure to set SONAME in its builtins.
